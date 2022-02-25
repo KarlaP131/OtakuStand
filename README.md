@@ -27,6 +27,6 @@ Permite al público objetivo acceder a la página en la que podrá encontrar el 
 - El CONTACTO está destinado para la atención rápida del cliente en caso de dudas o quejas por lo que se habilitará un correo electronico y mensajeria instantanea (Whatsapp).
 
 ### Links adjuntos
-- Drive: https://drive.google.com/drive/u/0/folders/1p8k0sUK1eXmlecQV4pbbAn_AlrRJO6oY
-- Pagina: http://www.otakustand.com.mialias.net/
+- Drive (Business Model, Validation Board): https://drive.google.com/drive/u/0/folders/1p8k0sUK1eXmlecQV4pbbAn_AlrRJO6oY
+- Pagina Web (Wordp: http://www.otakustand.com.mialias.net/
 - Medium: https://medium.com/@rosadeperuenperu/el-nacimiento-de-otakustand-5c4c7c0f3e06
