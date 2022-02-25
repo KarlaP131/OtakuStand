@@ -29,3 +29,4 @@ Permite al público objetivo acceder a la página en la que podrá encontrar el 
 ### Links adjuntos
 - Drive: https://drive.google.com/drive/u/0/folders/1p8k0sUK1eXmlecQV4pbbAn_AlrRJO6oY
 - Pagina: http://www.otakustand.com.mialias.net/
+- Medium: https://medium.com/@rosadeperuenperu/el-nacimiento-de-otakustand-5c4c7c0f3e06
